@@ -1,0 +1,24 @@
+@import "font";
+@import "container";
+@import "slider";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Mont";
+  // -ms-overflow-style: none;
+  scrollbar-width: 10px ;
+
+  &::-webkit-scrollbar {
+    width: 10px;
+
+  }
+
+  &::-webkit-scrollbar-thumb{
+    background: black;
+  }
+}
