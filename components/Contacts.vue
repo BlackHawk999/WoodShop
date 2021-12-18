@@ -4,7 +4,7 @@
       <div class="contacts-wrapper">
         <div class="contacts-items">
           <div class="logo-wrapper">
-            <img src="@/assets/images/logo.png" alt="" />
+            <img src="@/assets/images/Logo.png" alt="" />
           </div>
           <div class="adress">
             <h6>Производство и офис:</h6>

@@ -1,7 +1,7 @@
 <template>
   <div :class="['navbar', { active: isActive }]">
     <div class="logo">
-      <img src="@/assets/images/logo.png" alt="" />
+      <img src="@/assets/images/Logo.png" alt="" />
       <div class="logo-title">
         <p>Волоколамский Лесоперерабатывающий Комплекс</p>
       </div>
